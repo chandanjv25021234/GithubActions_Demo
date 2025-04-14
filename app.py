@@ -7,5 +7,5 @@ def home():
     return "Hello, Flask!"
 
 if __name__ == "__main__":
-    print("Hi - Starting Flask app...")
+    print("I am in test_feature - Starting Flask app...")
     app.run(debug=True)
